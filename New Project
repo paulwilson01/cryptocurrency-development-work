@@ -1,0 +1,15 @@
+# Past Cryptocurrency Development Work
+
+Here are some of my past contributions to blockchain ecosystems:
+
+## [Validator Monitoring Tool](https://github.com/yourusername/validator-monitoring)
+- Developed an open-source tool for monitoring validator node health, including uptime, missed blocks, and network latency. Integrated with Prometheus and Grafana for real-time insights.
+
+## [Blockchain Node Automation Scripts](https://github.com/yourusername/node-automation-scripts)
+- Created a set of automation scripts for easier deployment and maintenance of blockchain nodes using Bash, Ansible, and Terraform.
+
+## [Consensus Algorithm Optimization Research](https://github.com/yourusername/consensus-research)
+- Published research on optimizing PoS consensus algorithms to improve finality times and decentralization. Shared with blockchain projects to enhance network performance.
+
+## [Blockchain Documentation Contributions](https://github.com/yourusername/blockchain-docs)
+- Contributed detailed, easy-to-understand guides for node setup, staking, and API usage across various blockchain projects.
